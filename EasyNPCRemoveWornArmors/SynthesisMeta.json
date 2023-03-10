@@ -1,0 +1,7 @@
+{
+    "Nickname": "EasyNPC SkinNaked Remover",
+    "Visibility": "Visible",
+    "OneLineDescription": "Removes the default SkinNakedPatched Worn Armor fields from the NPC records patched by EasyNPC",
+    "LongDescription": "A temporary solution to fix NPC transformation issues caused by the SkinNakedPatched Worn Armor value added by EasyNPC. Unless you know you need this you probably shouldn't use it.",
+    "PreferredAutoVersioning": "Default"
+  }
